@@ -22,18 +22,18 @@
      Use that same query with the XPath count() function to return the
      number of nodes that are returned by that query. -->
 <xsl:template match="/pokedex">
-    Strong attackers: <xsl:value-of select="" />
-    <xsl:apply-templates select="XPATH-QUERY-GOES-HERE" />
-    Strong defenders:
-    <xsl:apply-templates select="XPATH-QUERY-GOES-HERE" />
-    Fast:
-    <xsl:apply-templates select="XPATH-QUERY-GOES-HERE" />
+    Strong attackers: <xsl:value-of select="count(//pokemon[attack >=150])" />
+    <xsl:apply-templates select="//pokemon[attack >=150]" />
+    Strong defenders: <xsl:value-of select="count(//pokemon[defense >=150])" />
+    <xsl:apply-templates select="//pokemon[defense >=150]" />
+    Fast: <xsl:value-of select="count(//pokemon[speed >=150])" />
+    <xsl:apply-templates select="//pokemon[speed >=150]" />
 </xsl:template>
 
 <!-- In this template, select the name, pokedexNumber, and type in each of the value-of
      statements, respectively. -->
 <xsl:template match="pokemon">
-    <xsl:value-of select="XPATH-QUERY-GOES-HERE" /> (<xsl:value-of select="XPATH-QUERY-GOES-HERE" />): <xsl:apply-templates select="type" />
+    <xsl:value-of select="name" /> (<xsl:value-of select="@classification" />): <xsl:apply-templates select="type" />
 </xsl:template>
 
 <!--

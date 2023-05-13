@@ -22,7 +22,6 @@ import xml.etree.ElementTree as ET
 # </pokemon>
 
 
-
 # Read pokemon XML file name from command-line
 # (Currently this code does nothing; your job is to fix that!)
 if len(sys.argv) < 2:
@@ -32,4 +31,4 @@ for i, arg in enumerate(sys.argv):
     # Skip if this is the Python filename (argv[0])
     if i == 0:
         continue
-
+    

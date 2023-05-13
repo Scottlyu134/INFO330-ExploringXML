@@ -1,0 +1,330 @@
+<?xml version="1.0"?>
+Charmander (Lizard Pokémon): fire
+Charmeleon (Flame Pokémon): fire
+Charizard (Flame Pokémon): fire, flying
+Squirtle (Tiny Turtle Pokémon): water
+Wartortle (Turtle Pokémon): water
+Blastoise (Shellfish Pokémon): water
+Butterfree (Butterfly Pokémon): bug, flying
+Pidgey (Tiny Bird Pokémon): normal, flying
+Pidgeotto (Bird Pokémon): normal, flying
+Pidgeot (Bird Pokémon): normal, flying
+Spearow (Tiny Bird Pokémon): normal, flying
+Fearow (Beak Pokémon): normal, flying
+Sandshrew (Mouse Pokémon): ground, ice
+Sandslash (Mouse Pokémon): ground, ice
+Nidoqueen (Drill Pokémon): poison, ground
+Nidoking (Drill Pokémon): poison, ground
+Vulpix (Fox Pokémon): fire, ice
+Ninetales (Fox Pokémon): fire, ice
+Zubat (Bat Pokémon): poison, flying
+Golbat (Bat Pokémon): poison, flying
+Diglett (Mole Pokémon): ground, ground
+Dugtrio (Mole Pokémon): ground, ground
+Psyduck (Duck Pokémon): water
+Golduck (Duck Pokémon): water
+Growlithe (Puppy Pokémon): fire
+Arcanine (Legendary Pokémon): fire
+Poliwag (Tadpole Pokémon): water
+Poliwhirl (Tadpole Pokémon): water
+Poliwrath (Tadpole Pokémon): water, fighting
+Tentacool (Jellyfish Pokémon): water, poison
+Tentacruel (Jellyfish Pokémon): water, poison
+Geodude (Rock Pokémon): rock, ground
+Graveler (Rock Pokémon): rock, ground
+Golem (Megaton Pokémon): rock, ground
+Ponyta (Fire Horse Pokémon): fire
+Rapidash (Fire Horse Pokémon): fire
+Slowpoke (Dopey Pokémon): water, psychic
+Slowbro (Hermit Crab Pokémon): water, psychic
+Farfetch'd (Wild Duck Pokémon): normal, flying
+Doduo (Twin Bird Pokémon): normal, flying
+Dodrio (Triple Bird Pokémon): normal, flying
+Seel (Sea Lion Pokémon): water
+Dewgong (Sea Lion Pokémon): water, ice
+Shellder (Bivalve Pokémon): water
+Cloyster (Bivalve Pokémon): water, ice
+Onix (Rock Snake Pokémon): rock, ground
+Krabby (River Crab Pokémon): water
+Kingler (Pincer Pokémon): water
+Cubone (Lonely Pokémon): ground
+Marowak (Bone Keeper Pokémon): ground, fire
+Rhyhorn (Spikes Pokémon): ground, rock
+Rhydon (Drill Pokémon): ground, rock
+Horsea (Dragon Pokémon): water
+Seadra (Dragon Pokémon): water
+Goldeen (Goldfish Pokémon): water
+Seaking (Goldfish Pokémon): water
+Staryu (Starshape Pokémon): water
+Starmie (Mysterious Pokémon): water, psychic
+Scyther (Mantis Pokémon): bug, flying
+Magmar (Spitfire Pokémon): fire
+Magikarp (Fish Pokémon): water
+Gyarados (Atrocious Pokémon): water, flying
+Lapras (Transport Pokémon): water, ice
+Vaporeon (Bubble Jet Pokémon): water
+Flareon (Flame Pokémon): fire
+Omanyte (Spiral Pokémon): rock, water
+Omastar (Spiral Pokémon): rock, water
+Kabuto (Shellfish Pokémon): rock, water
+Kabutops (Shellfish Pokémon): rock, water
+Aerodactyl (Fossil Pokémon): rock, flying
+Articuno (Freeze Pokémon): ice, flying
+Zapdos (Electric Pokémon): electric, flying
+Moltres (Flame Pokémon): fire, flying
+Dragonite (Dragon Pokémon): dragon, flying
+Cyndaquil (Fire Mouse Pokémon): fire
+Quilava (Volcano Pokémon): fire
+Typhlosion (Volcano Pokémon): fire
+Totodile (Big Jaw Pokémon): water
+Croconaw (Big Jaw Pokémon): water
+Feraligatr (Big Jaw Pokémon): water
+Hoothoot (Owl Pokémon): normal, flying
+Noctowl (Owl Pokémon): normal, flying
+Ledyba (Five Star Pokémon): bug, flying
+Ledian (Five Star Pokémon): bug, flying
+Crobat (Bat Pokémon): poison, flying
+Chinchou (Angler Pokémon): water, electric
+Lanturn (Light Pokémon): water, electric
+Togetic (Happiness Pokémon): fairy, flying
+Natu (Little Bird Pokémon): psychic, flying
+Xatu (Mystic Pokémon): psychic, flying
+Marill (Aquamouse Pokémon): water, fairy
+Azumarill (Aquarabbit Pokémon): water, fairy
+Politoed (Frog Pokémon): water
+Hoppip (Cottonweed Pokémon): grass, flying
+Skiploom (Cottonweed Pokémon): grass, flying
+Jumpluff (Cottonweed Pokémon): grass, flying
+Yanma (Clear Wing Pokémon): bug, flying
+Wooper (Water Fish Pokémon): water, ground
+Quagsire (Water Fish Pokémon): water, ground
+Murkrow (Darkness Pokémon): dark, flying
+Slowking (Royal Pokémon): water, psychic
+Gligar (Flyscorpion Pokémon): ground, flying
+Steelix (Iron Snake Pokémon): steel, ground
+Qwilfish (Balloon Pokémon): water, poison
+Slugma (Lava Pokémon): fire
+Magcargo (Lava Pokémon): fire, rock
+Swinub (Pig Pokémon): ice, ground
+Piloswine (Swine Pokémon): ice, ground
+Corsola (Coral Pokémon): water, rock
+Remoraid (Jet Pokémon): water
+Octillery (Jet Pokémon): water
+Delibird (Delivery Pokémon): ice, flying
+Mantine (Kite Pokémon): water, flying
+Skarmory (Armor Bird Pokémon): steel, flying
+Houndour (Dark Pokémon): dark, fire
+Houndoom (Dark Pokémon): dark, fire
+Kingdra (Dragon Pokémon): water, dragon
+Phanpy (Long Nose Pokémon): ground
+Donphan (Armor Pokémon): ground
+Magby (Live Coal Pokémon): fire
+Entei (Volcano Pokémon): fire
+Suicune (Aurora Pokémon): water
+Larvitar (Rock Skin Pokémon): rock, ground
+Pupitar (Hard Shell Pokémon): rock, ground
+Lugia (Diving Pokémon): psychic, flying
+Ho-Oh (Rainbow Pokémon): fire, flying
+Torchic (Chick Pokémon): fire
+Combusken (Young Fowl Pokémon): fire, fighting
+Blaziken (Blaze Pokémon): fire, fighting
+Mudkip (Mud Fish Pokémon): water
+Marshtomp (Mud Fish Pokémon): water, ground
+Swampert (Mud Fish Pokémon): water, ground
+Beautifly (Butterfly Pokémon): bug, flying
+Lotad (Water Weed Pokémon): water, grass
+Lombre (Jolly Pokémon): water, grass
+Ludicolo (Carefree Pokémon): water, grass
+Taillow (TinySwallow Pokémon): normal, flying
+Swellow (Swallow Pokémon): normal, flying
+Wingull (Seagull Pokémon): water, flying
+Pelipper (Water Bird Pokémon): water, flying
+Surskit (Pond Skater Pokémon): bug, water
+Masquerain (Eyeball Pokémon): bug, flying
+Nincada (Trainee Pokémon): bug, ground
+Ninjask (Ninja Pokémon): bug, flying
+Carvanha (Savage Pokémon): water, dark
+Sharpedo (Brutal Pokémon): water, dark
+Wailmer (Ball Whale Pokémon): water
+Wailord (Float Whale Pokémon): water
+Numel (Numb Pokémon): fire, ground
+Camerupt (Eruption Pokémon): fire, ground
+Torkoal (Coal Pokémon): fire
+Trapinch (Ant Pit Pokémon): ground
+Vibrava (Vibration Pokémon): ground, dragon
+Flygon (Mystic Pokémon): ground, dragon
+Swablu (Cotton Bird Pokémon): normal, flying
+Altaria (Humming Pokémon): dragon, flying
+Barboach (Whiskers Pokémon): water, ground
+Whiscash (Whiskers Pokémon): water, ground
+Corphish (Ruffian Pokémon): water
+Crawdaunt (Rogue Pokémon): water, dark
+Baltoy (Clay Doll Pokémon): ground, psychic
+Claydol (Clay Doll Pokémon): ground, psychic
+Feebas (Fish Pokémon): water
+Milotic (Tender Pokémon): water
+Tropius (Fruit Pokémon): grass, flying
+Spheal (Clap Pokémon): ice, water
+Sealeo (Ball Roll Pokémon): ice, water
+Walrein (Ice Break Pokémon): ice, water
+Clamperl (Bivalve Pokémon): water
+Huntail (Deep Sea Pokémon): water
+Gorebyss (South Sea Pokémon): water
+Relicanth (Longevity Pokémon): water, rock
+Luvdisc (Rendezvous Pokémon): water
+Salamence (Dragon Pokémon): dragon, flying
+Kyogre (Sea Basin Pokémon): water
+Groudon (Continent Pokémon): ground
+Rayquaza (Sky High Pokémon): dragon, flying
+Torterra (Continent Pokémon): grass, ground
+Chimchar (Chimp Pokémon): fire
+Monferno (Playful Pokémon): fire, fighting
+Infernape (Flame Pokémon): fire, fighting
+Piplup (Penguin Pokémon): water
+Prinplup (Penguin Pokémon): water
+Empoleon (Emperor Pokémon): water, steel
+Starly (Starling Pokémon): normal, flying
+Staravia (Starling Pokémon): normal, flying
+Staraptor (Predator Pokémon): normal, flying
+Bibarel (Beaver Pokémon): normal, water
+Mothim (Moth Pokémon): bug, flying
+Combee (Tiny Bee Pokémon): bug, flying
+Vespiquen (Beehive Pokémon): bug, flying
+Buizel (Sea Weasel Pokémon): water
+Floatzel (Sea Weasel Pokémon): water
+Shellos (Sea Slug Pokémon): water
+Gastrodon (Sea Slug Pokémon): water, ground
+Drifloon (Balloon Pokémon): ghost, flying
+Drifblim (Blimp Pokémon): ghost, flying
+Honchkrow (Big Boss Pokémon): dark, flying
+Chatot (Music Note Pokémon): normal, flying
+Gible (Land Shark Pokémon): dragon, ground
+Gabite (Cave Pokémon): dragon, ground
+Garchomp (Mach Pokémon): dragon, ground
+Hippopotas (Hippo Pokémon): ground
+Hippowdon (Heavyweight Pokémon): ground
+Finneon (Wing Fish Pokémon): water
+Lumineon (Neon Pokémon): water
+Mantyke (Kite Pokémon): water, flying
+Rhyperior (Drill Pokémon): ground, rock
+Magmortar (Blast Pokémon): fire
+Togekiss (Jubilee Pokémon): fairy, flying
+Yanmega (Ogre Darner Pokémon): bug, flying
+Gliscor (Fang Scorp Pokémon): ground, flying
+Mamoswine (Twin Tusk Pokémon): ice, ground
+Palkia (Spatial Pokémon): water, dragon
+Heatran (Lava Dome Pokémon): fire, steel
+Phione (Sea Drifter Pokémon): water
+Manaphy (Seafaring Pokémon): water
+Victini (Victory Pokémon): psychic, fire
+Tepig (Fire Pig Pokémon): fire
+Pignite (Fire Pig Pokémon): fire, fighting
+Emboar (Mega Fire Pig Pokémon): fire, fighting
+Oshawott (Sea Otter Pokémon): water
+Dewott (Discipline Pokémon): water
+Samurott (Formidable Pokémon): water
+Pansear (High Temp Pokémon): fire
+Simisear (Ember Pokémon): fire
+Panpour (Spray Pokémon): water
+Simipour (Geyser Pokémon): water
+Pidove (Tiny Pigeon Pokémon): normal, flying
+Tranquill (Wild Pigeon Pokémon): normal, flying
+Unfezant (Proud Pokémon): normal, flying
+Woobat (Bat Pokémon): psychic, flying
+Swoobat (Courting Pokémon): psychic, flying
+Drilbur (Mole Pokémon): ground
+Excadrill (Subterrene Pokémon): ground, steel
+Tympole (Tadpole Pokémon): water
+Palpitoad (Vibration Pokémon): water, ground
+Seismitoad (Vibration Pokémon): water, ground
+Basculin (Hostile Pokémon): water
+Sandile (Desert Croc Pokémon): ground, dark
+Krokorok (Desert Croc Pokémon): ground, dark
+Krookodile (Intimidation Pokémon): ground, dark
+Darumaka (Zen Charm Pokémon): fire
+Darmanitan (Blazing Pokémon): fire, fire
+Sigilyph (Avianoid Pokémon): psychic, flying
+Tirtouga (Prototurtle Pokémon): water, rock
+Carracosta (Prototurtle Pokémon): water, rock
+Archen (First Bird Pokémon): rock, flying
+Archeops (First Bird Pokémon): rock, flying
+Ducklett (Water Bird Pokémon): water, flying
+Swanna (White Bird Pokémon): water, flying
+Emolga (Sky Squirrel Pokémon): electric, flying
+Frillish (Floating Pokémon): water, ghost
+Jellicent (Floating Pokémon): water, ghost
+Alomomola (Caring Pokémon): water
+Litwick (Candle Pokémon): ghost, fire
+Lampent (Lamp Pokémon): ghost, fire
+Chandelure (Luring Pokémon): ghost, fire
+Stunfisk (Trap Pokémon): ground, electric
+Golett (Automaton Pokémon): ground, ghost
+Golurk (Automaton Pokémon): ground, ghost
+Rufflet (Eaglet Pokémon): normal, flying
+Braviary (Valiant Pokémon): normal, flying
+Vullaby (Diapered Pokémon): dark, flying
+Mandibuzz (Bone Vulture Pokémon): dark, flying
+Heatmor (Anteater Pokémon): fire
+Larvesta (Torch Pokémon): bug, fire
+Volcarona (Sun Pokémon): bug, fire
+Tornadus (Cyclone Pokémon): flying
+Thundurus (Bolt Strike Pokémon): electric, flying
+Reshiram (Vast White Pokémon): dragon, fire
+Landorus (Abundance Pokémon): ground, flying
+Keldeo (Colt Pokémon): water, fighting
+Fennekin (Fox Pokémon): fire
+Braixen (Fox Pokémon): fire
+Delphox (Fox Pokémon): fire, psychic
+Froakie (Bubble Frog Pokémon): water
+Frogadier (Bubble Frog Pokémon): water
+Greninja (Ninja Pokémon): water, dark
+Diggersby (Digging Pokémon): normal, ground
+Fletchling (Tiny Robin Pokémon): normal, flying
+Fletchinder (Ember Pokémon): fire, flying
+Talonflame (Scorching Pokémon): fire, flying
+Vivillon (Scale Pokémon): bug, flying
+Litleo (Lion Cub Pokémon): fire, normal
+Pyroar (Royal Pokémon): fire, normal
+Binacle (Two-Handed Pokémon): rock, water
+Barbaracle (Collective Pokémon): rock, water
+Skrelp (Mock Kelp Pokémon): poison, water
+Clauncher (Water Gun Pokémon): water
+Clawitzer (Howitzer Pokémon): water
+Hawlucha (Wrestling Pokémon): fighting, flying
+Noibat (Sound Wave Pokémon): flying, dragon
+Noivern (Sound Wave Pokémon): flying, dragon
+Yveltal (Destruction Pokémon): dark, flying
+Zygarde (Order Pokémon): dragon, ground
+Volcanion (Steam Pokémon): fire, water
+Rowlet (Grass Quill Pokémon): grass, flying
+Dartrix (Blade Quill Pokémon): grass, flying
+Litten (Fire Cat Pokémon): fire
+Torracat (Fire Cat Pokémon): fire
+Incineroar (Heel Pokémon): fire, dark
+Popplio (Sea Lion Pokémon): water
+Brionne (Pop Star Pokémon): water
+Primarina (Soloist Pokémon): water, fairy
+Pikipek (Woodpecker Pokémon): normal, flying
+Trumbeak (Bugle Beak Pokémon): normal, flying
+Toucannon (Cannon Pokémon): normal, flying
+Oricorio (Dancing Pokémon): fire, flying
+Wishiwashi (Small Fry Pokémon): water
+Mareanie (Brutal Star Pokémon): poison, water
+Toxapex (Brutal Star Pokémon): poison, water
+Mudbray (Donkey Pokémon): ground
+Mudsdale (Draft Horse Pokémon): ground
+Dewpider (Water Bubble Pokémon): water, bug
+Araquanid (Water Bubble Pokémon): water, bug
+Salandit (Toxic Lizard Pokémon): poison, fire
+Salazzle (Toxic Lizard Pokémon): poison, fire
+Wimpod (Turn Tail Pokémon): bug, water
+Golisopod (Hard Scale Pokémon): bug, water
+Sandygast (Sand Heap Pokémon): ghost, ground
+Palossand (Sand Castle Pokémon): ghost, ground
+Pyukumuku (Sea Cucumber Pokémon): water
+Minior (Meteor Pokémon): rock, flying
+Turtonator (Blast Turtle Pokémon): fire, dragon
+Bruxish (Gnash Teeth Pokémon): water, psychic
+Tapu Fini (Land Spirit Pokémon): water, fairy
+Celesteela (Launch Pokémon): steel, flying
+

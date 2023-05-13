@@ -1,0 +1,389 @@
+<?xml version="1.0"?>
+
+Single type pokemon: 384:
+
+Charmander (Lizard Pokémon): fire | 4 |
+Charmeleon (Flame Pokémon): fire | 5 |
+Squirtle (Tiny Turtle Pokémon): water | 7 |
+Wartortle (Turtle Pokémon): water | 8 |
+Blastoise (Shellfish Pokémon): water | 9 |
+Caterpie (Worm Pokémon): bug | 10 |
+Metapod (Cocoon Pokémon): bug | 11 |
+Ekans (Snake Pokémon): poison | 23 |
+Arbok (Cobra Pokémon): poison | 24 |
+Pikachu (Mouse Pokémon): electric | 25 |
+Nidoran♀ (Poison Pin Pokémon): poison | 29 |
+Nidorina (Poison Pin Pokémon): poison | 30 |
+Nidoran♂ (Poison Pin Pokémon): poison | 32 |
+Nidorino (Poison Pin Pokémon): poison | 33 |
+Clefairy (Fairy Pokémon): fairy | 35 |
+Clefable (Fairy Pokémon): fairy | 36 |
+Psyduck (Duck Pokémon): water | 54 |
+Golduck (Duck Pokémon): water | 55 |
+Mankey (Pig Monkey Pokémon): fighting | 56 |
+Primeape (Pig Monkey Pokémon): fighting | 57 |
+Growlithe (Puppy Pokémon): fire | 58 |
+Arcanine (Legendary Pokémon): fire | 59 |
+Poliwag (Tadpole Pokémon): water | 60 |
+Poliwhirl (Tadpole Pokémon): water | 61 |
+Abra (Psi Pokémon): psychic | 63 |
+Kadabra (Psi Pokémon): psychic | 64 |
+Alakazam (Psi Pokémon): psychic | 65 |
+Machop (Superpower Pokémon): fighting | 66 |
+Machoke (Superpower Pokémon): fighting | 67 |
+Machamp (Superpower Pokémon): fighting | 68 |
+Ponyta (Fire Horse Pokémon): fire | 77 |
+Rapidash (Fire Horse Pokémon): fire | 78 |
+Seel (Sea Lion Pokémon): water | 86 |
+Shellder (Bivalve Pokémon): water | 90 |
+Drowzee (Hypnosis Pokémon): psychic | 96 |
+Hypno (Hypnosis Pokémon): psychic | 97 |
+Krabby (River Crab Pokémon): water | 98 |
+Kingler (Pincer Pokémon): water | 99 |
+Voltorb (Ball Pokémon): electric | 100 |
+Electrode (Ball Pokémon): electric | 101 |
+Cubone (Lonely Pokémon): ground | 104 |
+Hitmonlee (Kicking Pokémon): fighting | 106 |
+Hitmonchan (Punching Pokémon): fighting | 107 |
+Lickitung (Licking Pokémon): normal | 108 |
+Koffing (Poison Gas Pokémon): poison | 109 |
+Weezing (Poison Gas Pokémon): poison | 110 |
+Chansey (Egg Pokémon): normal | 113 |
+Tangela (Vine Pokémon): grass | 114 |
+Kangaskhan (Parent Pokémon): normal | 115 |
+Horsea (Dragon Pokémon): water | 116 |
+Seadra (Dragon Pokémon): water | 117 |
+Goldeen (Goldfish Pokémon): water | 118 |
+Seaking (Goldfish Pokémon): water | 119 |
+Staryu (Starshape Pokémon): water | 120 |
+Electabuzz (Electric Pokémon): electric | 125 |
+Magmar (Spitfire Pokémon): fire | 126 |
+Pinsir (Stagbeetle Pokémon): bug | 127 |
+Tauros (Wild Bull Pokémon): normal | 128 |
+Magikarp (Fish Pokémon): water | 129 |
+Ditto (Transform Pokémon): normal | 132 |
+Eevee (Evolution Pokémon): normal | 133 |
+Vaporeon (Bubble Jet Pokémon): water | 134 |
+Jolteon (Lightning Pokémon): electric | 135 |
+Flareon (Flame Pokémon): fire | 136 |
+Porygon (Virtual Pokémon): normal | 137 |
+Snorlax (Sleeping Pokémon): normal | 143 |
+Dratini (Dragon Pokémon): dragon | 147 |
+Dragonair (Dragon Pokémon): dragon | 148 |
+Mewtwo (Genetic Pokémon): psychic | 150 |
+Mew (New Species Pokémon): psychic | 151 |
+Chikorita (Leaf Pokémon): grass | 152 |
+Bayleef (Leaf Pokémon): grass | 153 |
+Meganium (Herb Pokémon): grass | 154 |
+Cyndaquil (Fire Mouse Pokémon): fire | 155 |
+Quilava (Volcano Pokémon): fire | 156 |
+Typhlosion (Volcano Pokémon): fire | 157 |
+Totodile (Big Jaw Pokémon): water | 158 |
+Croconaw (Big Jaw Pokémon): water | 159 |
+Feraligatr (Big Jaw Pokémon): water | 160 |
+Sentret (Scout Pokémon): normal | 161 |
+Furret (Long Body Pokémon): normal | 162 |
+Pichu (Tiny Mouse Pokémon): electric | 172 |
+Cleffa (Star Shape Pokémon): fairy | 173 |
+Togepi (Spike Ball Pokémon): fairy | 175 |
+Mareep (Wool Pokémon): electric | 179 |
+Flaaffy (Wool Pokémon): electric | 180 |
+Ampharos (Light Pokémon): electric | 181 |
+Bellossom (Flower Pokémon): grass | 182 |
+Sudowoodo (Imitation Pokémon): rock | 185 |
+Politoed (Frog Pokémon): water | 186 |
+Aipom (Long Tail Pokémon): normal | 190 |
+Sunkern (Seed Pokémon): grass | 191 |
+Sunflora (Sun Pokémon): grass | 192 |
+Espeon (Sun Pokémon): psychic | 196 |
+Umbreon (Moonlight Pokémon): dark | 197 |
+Misdreavus (Screech Pokémon): ghost | 200 |
+Unown (Symbol Pokémon): psychic | 201 |
+Wobbuffet (Patient Pokémon): psychic | 202 |
+Pineco (Bagworm Pokémon): bug | 204 |
+Dunsparce (Land Snake Pokémon): normal | 206 |
+Snubbull (Fairy Pokémon): fairy | 209 |
+Granbull (Fairy Pokémon): fairy | 210 |
+Teddiursa (Little Bear Pokémon): normal | 216 |
+Ursaring (Hibernator Pokémon): normal | 217 |
+Slugma (Lava Pokémon): fire | 218 |
+Remoraid (Jet Pokémon): water | 223 |
+Octillery (Jet Pokémon): water | 224 |
+Phanpy (Long Nose Pokémon): ground | 231 |
+Donphan (Armor Pokémon): ground | 232 |
+Porygon2 (Virtual Pokémon): normal | 233 |
+Stantler (Big Horn Pokémon): normal | 234 |
+Smeargle (Painter Pokémon): normal | 235 |
+Tyrogue (Scuffle Pokémon): fighting | 236 |
+Hitmontop (Handstand Pokémon): fighting | 237 |
+Elekid (Electric Pokémon): electric | 239 |
+Magby (Live Coal Pokémon): fire | 240 |
+Miltank (Milk Cow Pokémon): normal | 241 |
+Blissey (Happiness Pokémon): normal | 242 |
+Raikou (Thunder Pokémon): electric | 243 |
+Entei (Volcano Pokémon): fire | 244 |
+Suicune (Aurora Pokémon): water | 245 |
+Treecko (Wood Gecko Pokémon): grass | 252 |
+Grovyle (Wood Gecko Pokémon): grass | 253 |
+Sceptile (Forest Pokémon): grass | 254 |
+Torchic (Chick Pokémon): fire | 255 |
+Mudkip (Mud Fish Pokémon): water | 258 |
+Poochyena (Bite Pokémon): dark | 261 |
+Mightyena (Bite Pokémon): dark | 262 |
+Zigzagoon (Tiny Racoon Pokémon): normal | 263 |
+Linoone (Rush Pokémon): normal | 264 |
+Wurmple (Worm Pokémon): bug | 265 |
+Silcoon (Cocoon Pokémon): bug | 266 |
+Cascoon (Cocoon Pokémon): bug | 268 |
+Seedot (Acorn Pokémon): grass | 273 |
+Shroomish (Mushroom Pokémon): grass | 285 |
+Slakoth (Slacker Pokémon): normal | 287 |
+Vigoroth (Wild Monkey Pokémon): normal | 288 |
+Slaking (Lazy Pokémon): normal | 289 |
+Whismur (Whisper Pokémon): normal | 293 |
+Loudred (Big Voice Pokémon): normal | 294 |
+Exploud (Loud Noise Pokémon): normal | 295 |
+Makuhita (Guts Pokémon): fighting | 296 |
+Hariyama (Arm Thrust Pokémon): fighting | 297 |
+Nosepass (Compass Pokémon): rock | 299 |
+Skitty (Kitten Pokémon): normal | 300 |
+Delcatty (Prim Pokémon): normal | 301 |
+Electrike (Lightning Pokémon): electric | 309 |
+Manectric (Discharge Pokémon): electric | 310 |
+Plusle (Cheering Pokémon): electric | 311 |
+Minun (Cheering Pokémon): electric | 312 |
+Volbeat (Firefly Pokémon): bug | 313 |
+Illumise (Firefly Pokémon): bug | 314 |
+Gulpin (Stomach Pokémon): poison | 316 |
+Swalot (Poison Bag Pokémon): poison | 317 |
+Wailmer (Ball Whale Pokémon): water | 320 |
+Wailord (Float Whale Pokémon): water | 321 |
+Torkoal (Coal Pokémon): fire | 324 |
+Spoink (Bounce Pokémon): psychic | 325 |
+Grumpig (Manipulate Pokémon): psychic | 326 |
+Spinda (Spot Panda Pokémon): normal | 327 |
+Trapinch (Ant Pit Pokémon): ground | 328 |
+Cacnea (Cactus Pokémon): grass | 331 |
+Zangoose (Cat Ferret Pokémon): normal | 335 |
+Seviper (Fang Snake Pokémon): poison | 336 |
+Corphish (Ruffian Pokémon): water | 341 |
+Feebas (Fish Pokémon): water | 349 |
+Milotic (Tender Pokémon): water | 350 |
+Castform (Weather Pokémon): normal | 351 |
+Kecleon (Color Swap Pokémon): normal | 352 |
+Shuppet (Puppet Pokémon): ghost | 353 |
+Banette (Marionette Pokémon): ghost | 354 |
+Duskull (Requiem Pokémon): ghost | 355 |
+Dusclops (Beckon Pokémon): ghost | 356 |
+Chimecho (Wind Chime Pokémon): psychic | 358 |
+Absol (Disaster Pokémon): dark | 359 |
+Wynaut (Bright Pokémon): psychic | 360 |
+Snorunt (Snow Hat Pokémon): ice | 361 |
+Glalie (Face Pokémon): ice | 362 |
+Clamperl (Bivalve Pokémon): water | 366 |
+Huntail (Deep Sea Pokémon): water | 367 |
+Gorebyss (South Sea Pokémon): water | 368 |
+Luvdisc (Rendezvous Pokémon): water | 370 |
+Bagon (Rock Head Pokémon): dragon | 371 |
+Shelgon (Endurance Pokémon): dragon | 372 |
+Regirock (Rock Peak Pokémon): rock | 377 |
+Regice (Iceberg Pokémon): ice | 378 |
+Registeel (Iron Pokémon): steel | 379 |
+Kyogre (Sea Basin Pokémon): water | 382 |
+Groudon (Continent Pokémon): ground | 383 |
+Deoxys (DNA Pokémon): psychic | 386 |
+Turtwig (Tiny Leaf Pokémon): grass | 387 |
+Grotle (Grove Pokémon): grass | 388 |
+Chimchar (Chimp Pokémon): fire | 390 |
+Piplup (Penguin Pokémon): water | 393 |
+Prinplup (Penguin Pokémon): water | 394 |
+Bidoof (Plump Mouse Pokémon): normal | 399 |
+Kricketot (Cricket Pokémon): bug | 401 |
+Kricketune (Cricket Pokémon): bug | 402 |
+Shinx (Flash Pokémon): electric | 403 |
+Luxio (Spark Pokémon): electric | 404 |
+Luxray (Gleam Eyes Pokémon): electric | 405 |
+Cranidos (Head Butt Pokémon): rock | 408 |
+Rampardos (Head Butt Pokémon): rock | 409 |
+Burmy (Bagworm Pokémon): bug | 412 |
+Pachirisu (EleSquirrel Pokémon): electric | 417 |
+Buizel (Sea Weasel Pokémon): water | 418 |
+Floatzel (Sea Weasel Pokémon): water | 419 |
+Cherubi (Cherry Pokémon): grass | 420 |
+Cherrim (Blossom Pokémon): grass | 421 |
+Shellos (Sea Slug Pokémon): water | 422 |
+Ambipom (Long Tail Pokémon): normal | 424 |
+Buneary (Rabbit Pokémon): normal | 427 |
+Lopunny (Rabbit Pokémon): normal | 428 |
+Mismagius (Magical Pokémon): ghost | 429 |
+Glameow (Catty Pokémon): normal | 431 |
+Purugly (Tiger Cat Pokémon): normal | 432 |
+Chingling (Bell Pokémon): psychic | 433 |
+Bonsly (Bonsai Pokémon): rock | 438 |
+Happiny (Playhouse Pokémon): normal | 440 |
+Munchlax (Big Eater Pokémon): normal | 446 |
+Riolu (Emanation Pokémon): fighting | 447 |
+Hippopotas (Hippo Pokémon): ground | 449 |
+Hippowdon (Heavyweight Pokémon): ground | 450 |
+Carnivine (Bug Catcher Pokémon): grass | 455 |
+Finneon (Wing Fish Pokémon): water | 456 |
+Lumineon (Neon Pokémon): water | 457 |
+Lickilicky (Licking Pokémon): normal | 463 |
+Tangrowth (Vine Pokémon): grass | 465 |
+Electivire (Thunderbolt Pokémon): electric | 466 |
+Magmortar (Blast Pokémon): fire | 467 |
+Leafeon (Verdant Pokémon): grass | 470 |
+Glaceon (Fresh Snow Pokémon): ice | 471 |
+Porygon-Z (Virtual Pokémon): normal | 474 |
+Dusknoir (Gripper Pokémon): ghost | 477 |
+Uxie (Knowledge Pokémon): psychic | 480 |
+Mesprit (Emotion Pokémon): psychic | 481 |
+Azelf (Willpower Pokémon): psychic | 482 |
+Regigigas (Colossal Pokémon): normal | 486 |
+Cresselia (Lunar Pokémon): psychic | 488 |
+Phione (Sea Drifter Pokémon): water | 489 |
+Manaphy (Seafaring Pokémon): water | 490 |
+Darkrai (Pitch-Black Pokémon): dark | 491 |
+Arceus (Alpha Pokémon): normal | 493 |
+Snivy (Grass Snake Pokémon): grass | 495 |
+Servine (Grass Snake Pokémon): grass | 496 |
+Serperior (Regal Pokémon): grass | 497 |
+Tepig (Fire Pig Pokémon): fire | 498 |
+Oshawott (Sea Otter Pokémon): water | 501 |
+Dewott (Discipline Pokémon): water | 502 |
+Samurott (Formidable Pokémon): water | 503 |
+Patrat (Scout Pokémon): normal | 504 |
+Watchog (Lookout Pokémon): normal | 505 |
+Lillipup (Puppy Pokémon): normal | 506 |
+Herdier (Loyal Dog Pokémon): normal | 507 |
+Stoutland (Big-Hearted Pokémon): normal | 508 |
+Purrloin (Devious Pokémon): dark | 509 |
+Liepard (Cruel Pokémon): dark | 510 |
+Pansage (Grass Monkey Pokémon): grass | 511 |
+Simisage (Thorn Monkey Pokémon): grass | 512 |
+Pansear (High Temp Pokémon): fire | 513 |
+Simisear (Ember Pokémon): fire | 514 |
+Panpour (Spray Pokémon): water | 515 |
+Simipour (Geyser Pokémon): water | 516 |
+Munna (Dream Eater Pokémon): psychic | 517 |
+Musharna (Drowsing Pokémon): psychic | 518 |
+Blitzle (Electrified Pokémon): electric | 522 |
+Zebstrika (Thunderbolt Pokémon): electric | 523 |
+Roggenrola (Mantle Pokémon): rock | 524 |
+Boldore (Ore Pokémon): rock | 525 |
+Gigalith (Compressed Pokémon): rock | 526 |
+Drilbur (Mole Pokémon): ground | 529 |
+Audino (Hearing Pokémon): normal | 531 |
+Timburr (Muscular Pokémon): fighting | 532 |
+Gurdurr (Muscular Pokémon): fighting | 533 |
+Conkeldurr (Muscular Pokémon): fighting | 534 |
+Tympole (Tadpole Pokémon): water | 535 |
+Throh (Judo Pokémon): fighting | 538 |
+Sawk (Karate Pokémon): fighting | 539 |
+Petilil (Bulb Pokémon): grass | 548 |
+Lilligant (Flowering Pokémon): grass | 549 |
+Basculin (Hostile Pokémon): water | 550 |
+Darumaka (Zen Charm Pokémon): fire | 554 |
+Maractus (Cactus Pokémon): grass | 556 |
+Yamask (Spirit Pokémon): ghost | 562 |
+Cofagrigus (Coffin Pokémon): ghost | 563 |
+Trubbish (Trash Bag Pokémon): poison | 568 |
+Garbodor (Trash Heap Pokémon): poison | 569 |
+Zorua (Tricky Fox Pokémon): dark | 570 |
+Zoroark (Illusion Fox Pokémon): dark | 571 |
+Minccino (Chinchilla Pokémon): normal | 572 |
+Cinccino (Scarf Pokémon): normal | 573 |
+Gothita (Fixation Pokémon): psychic | 574 |
+Gothorita (Manipulate Pokémon): psychic | 575 |
+Gothitelle (Astral Body Pokémon): psychic | 576 |
+Solosis (Cell Pokémon): psychic | 577 |
+Duosion (Mitosis Pokémon): psychic | 578 |
+Reuniclus (Multiplying Pokémon): psychic | 579 |
+Vanillite (Fresh Snow Pokémon): ice | 582 |
+Vanillish (Icy Snow Pokémon): ice | 583 |
+Vanilluxe (Snowstorm Pokémon): ice | 584 |
+Karrablast (Clamping Pokémon): bug | 588 |
+Alomomola (Caring Pokémon): water | 594 |
+Klink (Gear Pokémon): steel | 599 |
+Klang (Gear Pokémon): steel | 600 |
+Klinklang (Gear Pokémon): steel | 601 |
+Tynamo (EleFish Pokémon): electric | 602 |
+Eelektrik (EleFish Pokémon): electric | 603 |
+Eelektross (EleFish Pokémon): electric | 604 |
+Elgyem (Cerebral Pokémon): psychic | 605 |
+Beheeyem (Cerebral Pokémon): psychic | 606 |
+Axew (Tusk Pokémon): dragon | 610 |
+Fraxure (Axe Jaw Pokémon): dragon | 611 |
+Haxorus (Axe Jaw Pokémon): dragon | 612 |
+Cubchoo (Chill Pokémon): ice | 613 |
+Beartic (Freezing Pokémon): ice | 614 |
+Cryogonal (Crystallizing Pokémon): ice | 615 |
+Shelmet (Snail Pokémon): bug | 616 |
+Accelgor (Shell Out Pokémon): bug | 617 |
+Mienfoo (Martial Arts Pokémon): fighting | 619 |
+Mienshao (Martial Arts Pokémon): fighting | 620 |
+Druddigon (Cave Pokémon): dragon | 621 |
+Bouffalant (Bash Buffalo Pokémon): normal | 626 |
+Heatmor (Anteater Pokémon): fire | 631 |
+Tornadus (Cyclone Pokémon): flying | 641 |
+Chespin (Spiky Nut Pokémon): grass | 650 |
+Quilladin (Spiny Armor Pokémon): grass | 651 |
+Fennekin (Fox Pokémon): fire | 653 |
+Braixen (Fox Pokémon): fire | 654 |
+Froakie (Bubble Frog Pokémon): water | 656 |
+Frogadier (Bubble Frog Pokémon): water | 657 |
+Bunnelby (Digging Pokémon): normal | 659 |
+Scatterbug (Scatterdust Pokémon): bug | 664 |
+Spewpa (Scatterdust Pokémon): bug | 665 |
+Flabébé (Single Bloom Pokémon): fairy | 669 |
+Floette (Fairy Pokémon): fairy | 670 |
+Florges (Garden Pokémon): fairy | 671 |
+Skiddo (Mount Pokémon): grass | 672 |
+Gogoat (Mount Pokémon): grass | 673 |
+Pancham (Playful Pokémon): fighting | 674 |
+Furfrou (Poodle Pokémon): normal | 676 |
+Espurr (Restraint Pokémon): psychic | 677 |
+Meowstic (Constraint Pokémon): psychic | 678 |
+Spritzee (Perfume Pokémon): fairy | 682 |
+Aromatisse (Fragrance Pokémon): fairy | 683 |
+Swirlix (Cotton Candy Pokémon): fairy | 684 |
+Slurpuff (Meringue Pokémon): fairy | 685 |
+Clauncher (Water Gun Pokémon): water | 692 |
+Clawitzer (Howitzer Pokémon): water | 693 |
+Sylveon (Intertwining Pokémon): fairy | 700 |
+Goomy (Soft Tissue Pokémon): dragon | 704 |
+Sliggoo (Soft Tissue Pokémon): dragon | 705 |
+Goodra (Dragon Pokémon): dragon | 706 |
+Bergmite (Ice Chunk Pokémon): ice | 712 |
+Avalugg (Iceberg Pokémon): ice | 713 |
+Xerneas (Life Pokémon): fairy | 716 |
+Litten (Fire Cat Pokémon): fire | 725 |
+Torracat (Fire Cat Pokémon): fire | 726 |
+Popplio (Sea Lion Pokémon): water | 728 |
+Brionne (Pop Star Pokémon): water | 729 |
+Yungoos (Loitering Pokémon): normal | 734 |
+Gumshoos (Stakeout Pokémon): normal | 735 |
+Grubbin (Larva Pokémon): bug | 736 |
+Crabrawler (Boxing Pokémon): fighting | 739 |
+Rockruff (Puppy Pokémon): rock | 744 |
+Lycanroc (Wolf Pokémon): rock | 745 |
+Wishiwashi (Small Fry Pokémon): water | 746 |
+Mudbray (Donkey Pokémon): ground | 749 |
+Mudsdale (Draft Horse Pokémon): ground | 750 |
+Fomantis (Sickle Grass Pokémon): grass | 753 |
+Lurantis (Bloom Sickle Pokémon): grass | 754 |
+Bounsweet (Fruit Pokémon): grass | 761 |
+Steenee (Fruit Pokémon): grass | 762 |
+Tsareena (Fruit Pokémon): grass | 763 |
+Comfey (Posy Picker Pokémon): fairy | 764 |
+Passimian (Teamwork Pokémon): fighting | 766 |
+Pyukumuku (Sea Cucumber Pokémon): water | 771 |
+Type: Null (Synthetic Pokémon): normal | 772 |
+Silvally (Synthetic Pokémon): normal | 773 |
+Komala (Drowsing Pokémon): normal | 775 |
+Jangmo-o (Scaly Pokémon): dragon | 782 |
+Cosmog (Nebula Pokémon): psychic | 789 |
+Cosmoem (Protostar Pokémon): psychic | 790 |
+Xurkitree (Glowing Pokémon): electric | 796 |
+Necrozma (Prism Pokémon): psychic | 800 |
+

@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<pokemon generation="1" pokedexNumber="1" classification="Seed Pokémon">
+<pokemon generation="1" pokedexNumber="2222" classification="Seed Pokémon">
 	<name>Bulbasaur</name>
 	<type>grass</type>
 	<type>poison</type>

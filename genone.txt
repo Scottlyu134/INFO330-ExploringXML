@@ -1,0 +1,153 @@
+<?xml version="1.0"?>
+Bulbasaur (Seed Pokémon): grass |
+Ivysaur (Seed Pokémon): grass |
+Venusaur (Seed Pokémon): grass |
+Charmander (Lizard Pokémon): fire |
+Charmeleon (Flame Pokémon): fire |
+Charizard (Flame Pokémon): fire |
+Squirtle (Tiny Turtle Pokémon): water |
+Wartortle (Turtle Pokémon): water |
+Blastoise (Shellfish Pokémon): water |
+Caterpie (Worm Pokémon): bug |
+Metapod (Cocoon Pokémon): bug |
+Butterfree (Butterfly Pokémon): bug |
+Weedle (Hairy Pokémon): bug |
+Kakuna (Cocoon Pokémon): bug |
+Beedrill (Poison Bee Pokémon): bug |
+Pidgey (Tiny Bird Pokémon): normal |
+Pidgeotto (Bird Pokémon): normal |
+Pidgeot (Bird Pokémon): normal |
+Rattata (Mouse Pokémon): normal |
+Raticate (Mouse Pokémon): normal |
+Spearow (Tiny Bird Pokémon): normal |
+Fearow (Beak Pokémon): normal |
+Ekans (Snake Pokémon): poison |
+Arbok (Cobra Pokémon): poison |
+Pikachu (Mouse Pokémon): electric |
+Raichu (Mouse Pokémon): electric |
+Sandshrew (Mouse Pokémon): ground |
+Sandslash (Mouse Pokémon): ground |
+Nidoran♀ (Poison Pin Pokémon): poison |
+Nidorina (Poison Pin Pokémon): poison |
+Nidoqueen (Drill Pokémon): poison |
+Nidoran♂ (Poison Pin Pokémon): poison |
+Nidorino (Poison Pin Pokémon): poison |
+Nidoking (Drill Pokémon): poison |
+Clefairy (Fairy Pokémon): fairy |
+Clefable (Fairy Pokémon): fairy |
+Vulpix (Fox Pokémon): fire |
+Ninetales (Fox Pokémon): fire |
+Jigglypuff (Balloon Pokémon): normal |
+Wigglytuff (Balloon Pokémon): normal |
+Zubat (Bat Pokémon): poison |
+Golbat (Bat Pokémon): poison |
+Oddish (Weed Pokémon): grass |
+Gloom (Weed Pokémon): grass |
+Vileplume (Flower Pokémon): grass |
+Paras (Mushroom Pokémon): bug |
+Parasect (Mushroom Pokémon): bug |
+Venonat (Insect Pokémon): bug |
+Venomoth (Poison Moth Pokémon): bug |
+Diglett (Mole Pokémon): ground |
+Dugtrio (Mole Pokémon): ground |
+Meowth (Scratch Cat Pokémon): normal |
+Persian (Classy Cat Pokémon): normal |
+Psyduck (Duck Pokémon): water |
+Golduck (Duck Pokémon): water |
+Mankey (Pig Monkey Pokémon): fighting |
+Primeape (Pig Monkey Pokémon): fighting |
+Growlithe (Puppy Pokémon): fire |
+Arcanine (Legendary Pokémon): fire |
+Poliwag (Tadpole Pokémon): water |
+Poliwhirl (Tadpole Pokémon): water |
+Poliwrath (Tadpole Pokémon): water |
+Abra (Psi Pokémon): psychic |
+Kadabra (Psi Pokémon): psychic |
+Alakazam (Psi Pokémon): psychic |
+Machop (Superpower Pokémon): fighting |
+Machoke (Superpower Pokémon): fighting |
+Machamp (Superpower Pokémon): fighting |
+Bellsprout (Flower Pokémon): grass |
+Weepinbell (Flycatcher Pokémon): grass |
+Victreebel (Flycatcher Pokémon): grass |
+Tentacool (Jellyfish Pokémon): water |
+Tentacruel (Jellyfish Pokémon): water |
+Geodude (Rock Pokémon): rock |
+Graveler (Rock Pokémon): rock |
+Golem (Megaton Pokémon): rock |
+Ponyta (Fire Horse Pokémon): fire |
+Rapidash (Fire Horse Pokémon): fire |
+Slowpoke (Dopey Pokémon): water |
+Slowbro (Hermit Crab Pokémon): water |
+Magnemite (Magnet Pokémon): electric |
+Magneton (Magnet Pokémon): electric |
+Farfetch'd (Wild Duck Pokémon): normal |
+Doduo (Twin Bird Pokémon): normal |
+Dodrio (Triple Bird Pokémon): normal |
+Seel (Sea Lion Pokémon): water |
+Dewgong (Sea Lion Pokémon): water |
+Grimer (Sludge Pokémon): poison |
+Muk (Sludge Pokémon): poison |
+Shellder (Bivalve Pokémon): water |
+Cloyster (Bivalve Pokémon): water |
+Gastly (Gas Pokémon): ghost |
+Haunter (Gas Pokémon): ghost |
+Gengar (Shadow Pokémon): ghost |
+Onix (Rock Snake Pokémon): rock |
+Drowzee (Hypnosis Pokémon): psychic |
+Hypno (Hypnosis Pokémon): psychic |
+Krabby (River Crab Pokémon): water |
+Kingler (Pincer Pokémon): water |
+Voltorb (Ball Pokémon): electric |
+Electrode (Ball Pokémon): electric |
+Exeggcute (Egg Pokémon): grass |
+Exeggutor (Coconut Pokémon): grass |
+Cubone (Lonely Pokémon): ground |
+Marowak (Bone Keeper Pokémon): ground |
+Hitmonlee (Kicking Pokémon): fighting |
+Hitmonchan (Punching Pokémon): fighting |
+Lickitung (Licking Pokémon): normal |
+Koffing (Poison Gas Pokémon): poison |
+Weezing (Poison Gas Pokémon): poison |
+Rhyhorn (Spikes Pokémon): ground |
+Rhydon (Drill Pokémon): ground |
+Chansey (Egg Pokémon): normal |
+Tangela (Vine Pokémon): grass |
+Kangaskhan (Parent Pokémon): normal |
+Horsea (Dragon Pokémon): water |
+Seadra (Dragon Pokémon): water |
+Goldeen (Goldfish Pokémon): water |
+Seaking (Goldfish Pokémon): water |
+Staryu (Starshape Pokémon): water |
+Starmie (Mysterious Pokémon): water |
+Mr. Mime (Barrier Pokémon): psychic |
+Scyther (Mantis Pokémon): bug |
+Jynx (Humanshape Pokémon): ice |
+Electabuzz (Electric Pokémon): electric |
+Magmar (Spitfire Pokémon): fire |
+Pinsir (Stagbeetle Pokémon): bug |
+Tauros (Wild Bull Pokémon): normal |
+Magikarp (Fish Pokémon): water |
+Gyarados (Atrocious Pokémon): water |
+Lapras (Transport Pokémon): water |
+Ditto (Transform Pokémon): normal |
+Eevee (Evolution Pokémon): normal |
+Vaporeon (Bubble Jet Pokémon): water |
+Jolteon (Lightning Pokémon): electric |
+Flareon (Flame Pokémon): fire |
+Porygon (Virtual Pokémon): normal |
+Omanyte (Spiral Pokémon): rock |
+Omastar (Spiral Pokémon): rock |
+Kabuto (Shellfish Pokémon): rock |
+Kabutops (Shellfish Pokémon): rock |
+Aerodactyl (Fossil Pokémon): rock |
+Snorlax (Sleeping Pokémon): normal |
+Articuno (Freeze Pokémon): ice |
+Zapdos (Electric Pokémon): electric |
+Moltres (Flame Pokémon): fire |
+Dratini (Dragon Pokémon): dragon |
+Dragonair (Dragon Pokémon): dragon |
+Dragonite (Dragon Pokémon): dragon |
+Mewtwo (Genetic Pokémon): psychic |
+Mew (New Species Pokémon): psychic |
+

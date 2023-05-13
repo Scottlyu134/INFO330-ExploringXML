@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+Charmander (Lizard Pokémon): fire
+Charmeleon (Flame Pokémon): fire
+Charizard (Flame Pokémon): fire, flying
+Vulpix (Fox Pokémon): fire, ice
+Ninetales (Fox Pokémon): fire, ice
+Growlithe (Puppy Pokémon): fire
+Arcanine (Legendary Pokémon): fire
+Ponyta (Fire Horse Pokémon): fire
+Rapidash (Fire Horse Pokémon): fire
+Marowak (Bone Keeper Pokémon): ground, fire
+Magmar (Spitfire Pokémon): fire
+Flareon (Flame Pokémon): fire
+Moltres (Flame Pokémon): fire, flying
+Cyndaquil (Fire Mouse Pokémon): fire
+Quilava (Volcano Pokémon): fire
+Typhlosion (Volcano Pokémon): fire
+Slugma (Lava Pokémon): fire
+Magcargo (Lava Pokémon): fire, rock
+Houndour (Dark Pokémon): dark, fire
+Houndoom (Dark Pokémon): dark, fire
+Magby (Live Coal Pokémon): fire
+Entei (Volcano Pokémon): fire
+Ho-Oh (Rainbow Pokémon): fire, flying
+Torchic (Chick Pokémon): fire
+Combusken (Young Fowl Pokémon): fire, fighting
+Blaziken (Blaze Pokémon): fire, fighting
+Numel (Numb Pokémon): fire, ground
+Camerupt (Eruption Pokémon): fire, ground
+Torkoal (Coal Pokémon): fire
+Chimchar (Chimp Pokémon): fire
+Monferno (Playful Pokémon): fire, fighting
+Infernape (Flame Pokémon): fire, fighting
+Magmortar (Blast Pokémon): fire
+Heatran (Lava Dome Pokémon): fire, steel
+Victini (Victory Pokémon): psychic, fire
+Tepig (Fire Pig Pokémon): fire
+Pignite (Fire Pig Pokémon): fire, fighting
+Emboar (Mega Fire Pig Pokémon): fire, fighting
+Pansear (High Temp Pokémon): fire
+Simisear (Ember Pokémon): fire
+Darumaka (Zen Charm Pokémon): fire
+Darmanitan (Blazing Pokémon): fire, fire
+Litwick (Candle Pokémon): ghost, fire
+Lampent (Lamp Pokémon): ghost, fire
+Chandelure (Luring Pokémon): ghost, fire
+Heatmor (Anteater Pokémon): fire
+Larvesta (Torch Pokémon): bug, fire
+Volcarona (Sun Pokémon): bug, fire
+Reshiram (Vast White Pokémon): dragon, fire
+Fennekin (Fox Pokémon): fire
+Braixen (Fox Pokémon): fire
+Delphox (Fox Pokémon): fire, psychic
+Fletchinder (Ember Pokémon): fire, flying
+Talonflame (Scorching Pokémon): fire, flying
+Litleo (Lion Cub Pokémon): fire, normal
+Pyroar (Royal Pokémon): fire, normal
+Volcanion (Steam Pokémon): fire, water
+Litten (Fire Cat Pokémon): fire
+Torracat (Fire Cat Pokémon): fire
+Incineroar (Heel Pokémon): fire, dark
+Oricorio (Dancing Pokémon): fire, flying
+Salandit (Toxic Lizard Pokémon): poison, fire
+Salazzle (Toxic Lizard Pokémon): poison, fire
+Turtonator (Blast Turtle Pokémon): fire, dragon
+
